@@ -1,4 +1,4 @@
-# find_duplicate_files
+# Find duplicate files
 Search and create links when files are duplicated in the specified folder.
 
 This is the first program I wrote.
